@@ -1,5 +1,5 @@
 module "vnet" {
   source  = "app.terraform.io/tjmaco-training/vnet/azurerm"
-  version = "3.0.1"
+  version = "2.1.0"
   # insert required variables here
 }
